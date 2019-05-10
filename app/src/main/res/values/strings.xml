@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLiteTest</string>
+    <string name="well_it_launched_at_least">Well it launched at least</string>
+</resources>
